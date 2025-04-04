@@ -2,7 +2,7 @@
 
 🚀 Apple App Engineer | iOS · macOS · watchOS  
 🎯 Focused on building beautiful, high-performance apps using Swift, SwiftUI, and UIKit  
-💼 Passionate about clean architecture (MVVM, VIPER), seamless UX, and native Apple frameworks  
+💼 Passionate about clean architecture (MVVM, VIPER, MVP), seamless UX, and native Apple frameworks  
 
 ---
 
