@@ -26,13 +26,13 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15/sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirvaghela15&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&count_private=true)
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudhirvaghela15&theme=tokyonight&hide_border=true)](https://github.com/sudhirvaghela15)
 
-<img src="https://ghchart.rshah.org/2196f3/sudhirvaghela15" alt="GitHub Contributions Chart" />
-
-
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=)
+<!-- <img src="https://ghchart.rshah.org/2196f3/sudhirvaghela15" alt="GitHub Contributions Chart" /> -->
 
