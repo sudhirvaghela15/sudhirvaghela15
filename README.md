@@ -15,14 +15,6 @@
 
 ---
 
-### 🚧 Current Projects
-
-- 🎥 **CarPlay Video Player** – Custom video player built for CarPlay using AVKit
-- ⏱️ **Minimal Pomodoro App** – SwiftUI-based focus timer with widgets & Siri Shortcuts
-- 📦 [More on my repositories »](https://github.com/sudhirvaghela15)
-
----
-
 ### 📬 Let's Connect
 
 - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/smvaghela/))
