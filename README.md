@@ -8,7 +8,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages:** Swift, Objective-C (some), Python (tools/scripts)
+- **Languages:** Swift, Objective-C (some), Kotlin
 - **Frameworks:** SwiftUI, UIKit, Combine, CoreData, AVKit, MapKit, CarPlay
 - **Tools:** Xcode, Instruments, Git, Fastlane, Firebase, TestFlight
 - **Practices:** MVVM, Modular Architecture, Unit Testing, CI/CD
