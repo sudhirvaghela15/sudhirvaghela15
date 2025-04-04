@@ -30,4 +30,9 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sudhirvaghela15&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirvaghela15" />
 </p>
-[![GitHub Streak]https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica
+[![GitHub Streak] https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
+
