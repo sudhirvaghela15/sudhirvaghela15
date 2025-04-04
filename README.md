@@ -17,7 +17,7 @@
 
 ### 📬 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/smvaghela/))
+- [LinkedIn](https://www.linkedin.com/in/smvaghela/)
 - 📫 Reach me at: sudhirvaghela15@hotmail.com
 
 ---
