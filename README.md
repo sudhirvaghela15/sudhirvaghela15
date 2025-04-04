@@ -25,10 +25,8 @@
 ### 🔥 GitHub Streak
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirvaghela15&layout=compact)
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&count_private=true) -->
-
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhirvaghela15&theme=default)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&count_private=true) -->
 
 
 <!-- <img src="https://ghchart.rshah.org/2196f3/sudhirvaghela15" alt="GitHub Contributions Chart" /> -->
