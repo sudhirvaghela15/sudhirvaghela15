@@ -28,9 +28,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15/sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudhirvaghela15&theme=tokyonight&hide_border=true)](https://github.com/sudhirvaghela15)
 
+<img src="https://ghchart.rshah.org/2196f3/sudhirvaghela15" alt="GitHub Contributions Chart" />
 
 
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=sudhirvaghela15)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=)
 
