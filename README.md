@@ -25,14 +25,8 @@
 
 ---
 
-### 📈 Contribution Summary
-
-- 🧮 **Total Commits:** ![Commit Badge](https://badgen.net/github/commits/sudhirvaghela15/)
-- ⭐ **GitHub Stars Received:** ![Stars](https://img.shields.io/github/stars/sudhirvaghela15?style=flat)
----
-
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="leading">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&theme=radical&count_private=true" alt="sudhirvaghela15 stats" />
 </p>
