@@ -26,8 +26,8 @@
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudhirvaghela15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15/sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhirvaghela15/sudhirvaghela15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
