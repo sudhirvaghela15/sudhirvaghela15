@@ -22,13 +22,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![GitHub Starts](https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats)
-
 <!-- [![GitHub Streak] https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica -->
 
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudhirvaghela15&theme=radica)](https://git.io/streak-stats)
+
 
