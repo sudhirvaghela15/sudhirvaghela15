@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sudhir]</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhirvaghela15&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirvaghela15" />
-</p>
+<h1 align="leading">Hi 👋, I'm [Sudhir]</h1>
 
 🚀 Apple App Engineer | iOS · macOS · watchOS  
 🎯 Focused on building beautiful, high-performance apps using Swift, SwiftUI, and UIKit  
@@ -29,4 +26,7 @@
 
 <p align="leading">
   <img src="https://github-readme-stats.vercel.app/api?username=sudhirvaghela15&show_icons=true&theme=radical&count_private=true" alt="sudhirvaghela15 stats" />
+</p>
+<p align="trailing">
+  <img src="https://komarev.com/ghpvc/?username=sudhirvaghela15&label=Profile%20views&color=0e75b6&style=flat" alt="sudhirvaghela15" />
 </p>
