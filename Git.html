@@ -1,3 +1,19 @@
 
+<table style="width:100%">
+  <tr>
+    <td>git rev-list --count HEAD</td>
+    <td>
+🔍 What it does:
 
+Counts the number of commits in the current Git branch (from the beginning of the repo history up to the current HEAD).
+Returns a simple number — the total number of commits.
 
+🧠 Use cases:
+
+Generate a build number dynamically (often used in CI/CD).
+Track progress over time.
+Tag or label builds, e.g., v1.0-build-$(git rev-list --count HEAD)
+</td>
+  </tr>
+  
+</table>
